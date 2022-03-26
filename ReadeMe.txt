@@ -1,0 +1,2 @@
+Registrando o primeiro commit em React Native, sendo o primeiro passo a passo seguido para que haja aprendizado.
+Principal objetivo atual = fazer um Crude e upar para download.
